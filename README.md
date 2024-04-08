@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hehehedada
+- 👀 I’m interested in basketball
+- 🌱 I’m currently learning ML and Python
